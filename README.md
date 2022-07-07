@@ -1,7 +1,6 @@
 # Y9000X-HACKINTOSH
 * **Y9000X-2020款黑苹果EFI文件**
-* **基于OpenCore V0.7.5版本**
-* **从[WangRicky](https://github.com/WangRicky)的Y9000X-HACKINTOSH项目Fork过来的，但是因为笔记本不是4K屏而且没有更换网卡，所以对其配置做了部分修改，已经删除了Clover的启动配置**
+* **基于OpenCore V0.7.5版本，已更新到最新的OpenCore V0.8.2版本**
 * **已修改EFI中ACPI文件夹下的所有的acpi文件，使其完美兼容双系统，可以直接从OpenCore启动界面启动Windows(10/11)，不会再蓝屏显示ACPI_ERROR**
 
 **配置** 
