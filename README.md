@@ -1,7 +1,7 @@
 # Y9000X-HACKINTOSH
 * **Y9000X-2020款黑苹果EFI文件**
 * **OpenCore版本已更新到最新的V0.8.6版本**
-* **已修改EFI中ACPI文件夹下的所有的acpi文件，使其完美兼容双系统，可以直接从OpenCore启动界面启动Windows(10/11)，不会再蓝屏显示ACPI_ERROR
+* **已修改EFI中ACPI文件夹下的所有的acpi文件，使其完美兼容双系统，可以直接从OpenCore启动界面启动Windows(10/11)，不会再蓝屏显示ACPI_ERROR**
 * **已修改由OC引导进入Windows后，Windows系统中关于本机的型号显示不正确的问题**
 
 **配置** 
